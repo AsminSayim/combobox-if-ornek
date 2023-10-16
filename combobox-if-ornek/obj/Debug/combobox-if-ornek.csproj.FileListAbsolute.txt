@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\combobox-if-ornek\combobox-if-ornek\obj\Debug\combobox-if-ornek.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\combobox-if-ornek\combobox-if-ornek\obj\Debug\combobox-if-ornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\combobox-if-ornek\combobox-if-ornek\obj\Debug\combobox_if_ornek.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\combobox-if-ornek\combobox-if-ornek\obj\Debug\combobox_if_ornek.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\combobox-if-ornek\combobox-if-ornek\obj\Debug\combobox-if-ornek.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\combobox-if-ornek\combobox-if-ornek\obj\Debug\combobox-if-ornek.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\combobox-if-ornek\combobox-if-ornek\bin\Debug\combobox-if-ornek.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\combobox-if-ornek\combobox-if-ornek\bin\Debug\combobox-if-ornek.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\combobox-if-ornek\combobox-if-ornek\bin\Debug\combobox-if-ornek.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\combobox-if-ornek\combobox-if-ornek\obj\Debug\combobox-if-ornek.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\combobox-if-ornek\combobox-if-ornek\obj\Debug\combobox-if-ornek.pdb
